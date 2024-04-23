@@ -1,5 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP (Constraint Satisfaction Problem) using Python</h1> 
 <h3>Name: NAVEEN M</h3>
+nFs
 <h3>Register Number: 212222110029</h3>
 <H3>Aim:</H3>
 <p>
@@ -115,4 +116,4 @@ MORE = 1085<br>
 MONEY = 10652<br>
 <hr>
 <h2>Result:</h2>
-<p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
+<p> Thus the Cryptarithmetic Problem was solved using Python successfully</p>
