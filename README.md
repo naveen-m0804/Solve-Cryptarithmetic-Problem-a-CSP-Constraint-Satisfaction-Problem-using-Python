@@ -1,6 +1,6 @@
 <h1>ExpNo 8 : Solve Cryptarithmetic Problem,a CSP (Constraint Satisfaction Problem) using Python</h1> 
 <h3>Name: NAVEEN M</h3>
-nFs
+          n  F  s
 <h3>Register Number: 212222110029</h3>
 <H3>Aim:</H3>
 <p>
